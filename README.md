@@ -3,10 +3,10 @@
 This project is a web application that converts temperatures between Celsius, Fahrenheit, and Kelvin scales. The user inputs a temperature value and the original unit of measurement, and the program converts the temperature to the other two units, displaying the results.
 
 ## Features
-User Input Handling: Users can input a temperature value and select the original unit of measurement (Celsius, Fahrenheit, or Kelvin).  
-Real-Time Conversion: The application converts the temperature into the other two units instantly upon user input.  
-Responsive Design: The layout is responsive and visually appealing, providing a seamless user experience across different devices.  
-Styling and Theming: Custom theming and styles enhance the visual aesthetics of the application.  
++ User Input Handling: Users can input a temperature value and select the original unit of measurement (Celsius, Fahrenheit, or Kelvin).  
++ Real-Time Conversion: The application converts the temperature into the other two units instantly upon user input.  
++ Responsive Design: The layout is responsive and visually appealing, providing a seamless user experience across different devices.  
++ Styling and Theming: Custom theming and styles enhance the visual aesthetics of the application.  
 ## Technologies Used
 + React: For building the user interface and managing state.
 + Material-UI: For creating a consistent and professional design with pre-built components.
@@ -22,8 +22,8 @@ git clone https://github.com/your-username/temperature-conversion-program.git
 cd temperature-conversion-program
 ### Install dependencies:
 npm install
-### Running the Application
-###Start the development server:
+## Running the Application
+### Start the development server:
 npm start
 Open your web browser and navigate to http://localhost:3000 to view the application.
 ## Usage
@@ -39,5 +39,5 @@ Open your web browser and navigate to http://localhost:3000 to view the applicat
 ## Example
 If the user inputs a temperature of 25 degrees Celsius:
 
-Fahrenheit: 77.00 °F
+Fahrenheit: 77.00 °F  
 Kelvin: 298.15 K
