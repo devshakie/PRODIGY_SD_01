@@ -17,7 +17,7 @@ This project is a web application that converts temperatures between Celsius, Fa
 + npm (v6 or later)
 ## Installation
 ### Clone the repository:
-git clone https://github.com/your-username/temperature-conversion-program.git
+git clone https://github.com/your-username/PRODIGY_SD_01.git
 ### Navigate to the project directory:
 cd temperature-conversion-program
 ### Install dependencies:
